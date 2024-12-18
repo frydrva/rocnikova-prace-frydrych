@@ -4,6 +4,10 @@
 
 Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elektrotechniku a hlavně počítače chtěli začít zajímat.
 
+## Co vám vlastně odevzdávám
+
+Odevzdávám vám 1 "dokončený" skript (vzhledem k povaze tématu je to velice debatyhodné téma, proto jsem na něm udělal většinu práce a )
+
 ## Cíl
 
 Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky,sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem.
