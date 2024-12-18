@@ -1,5 +1,5 @@
 # Použité nástroje
-[1] CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-11-25].
+[1] CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-11-25].	
 [2] GITHUB, INC. GitHub. Online. © 2024. Dostupné z: https://github.com/. [cit. 2024-11-25].
 [3] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
 [4] SPSEL MOHELNICE. Bipolární tranzistory. Online. HTTP://OLD.SPSEMOH.CZ. Základy elektrotechniky. Dostupné z: http://old.spsemoh.cz/vyuka/zel/tranzistory-bip.htm. [cit. 2024-12-18].
