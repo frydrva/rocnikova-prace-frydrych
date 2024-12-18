@@ -1,3 +1,15 @@
+# Ročníkový projekt Frydrych
+
+## Zadání
+
+Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elektrotechniku a hlavně počítače chtěli začít zajímat.
+
+## Cíl
+
+Vytvořit si z odborných podkladů scénář a natočit, sestříhat a vydat aspoň 2 videa do 15.1.
+
+
+
 # Použité nástroje
 
 [1] CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-11-25].
@@ -25,3 +37,11 @@
 [12] Harvard architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Harvard architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-09-22. Dostupné z: https://en.wikipedia.org/wiki/Harvard_architecture. [cit. 2024-12-18].
 
 [13] 
+
+## Literatura
+
+[1] Markdown Guide. Online. © 2024. Dostupné z: https://www.markdownguide.org/. [cit. 2024-11-25].
+
+[2] MICROSOFT CORPORATION. Úvod do Git ve VS kódu. Online. Visual Studio Code documentation. 2024, 29. 10. 2024. Dostupné z: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git. [cit. 2024-12-10].
+
+[3] Complete list of github markdown emojis. Online. DEV. 2021, 15. 3. 2021. Dostupné z: https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia. [cit. 2024-12-10].
