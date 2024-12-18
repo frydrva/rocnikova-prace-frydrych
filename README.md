@@ -6,7 +6,7 @@ Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elek
 
 ## Co vám vlastně odevzdávám
 
-Odevzdávám vám 1 "dokončený" skript (vzhledem k povaze tématu je to velice debatyhodné téma, proto jsem na něm udělal většinu práce a kdykoliv ho můžu doplnit)(slovem skript referuju ke scénáři který, ale slovo skript mi v přišlo vhodnější)
+Odevzdávám vám 1 "dokončený" skript (vzhledem k povaze tématu je to velice debatyhodné téma, proto jsem na něm udělal většinu práce a kdykoliv ho můžu doplnit)(slovem skript referuju ke scénáři který, ale slovo skript mi v přišlo vhodnější) a jeden rozpracovaný. V tomto readme fileu odevzdavam také svoji vizi s projektem a důvod proč jsem si tento bič na sebe ušil dobrovolně. 
 
 ## Cíl
 
