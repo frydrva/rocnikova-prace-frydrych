@@ -14,14 +14,14 @@
 
 [7] Transistors. Online. In: HTTPS://WIKIPEDIA.ORG.Transistors - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-09. Dostupné z: https://en.wikipedia.org/wiki/Transistor#Types. [cit. 2024-12-18].
 
-[8] Tranzistory. Online. In: HTTPS://WIKIPEDIA.ORG. Tranzistor - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-09. Dostupné z: https://cs.wikipedia.org/wiki/Tranzistor. [cit. 2024-12-18].
+[8] Tranzistor. Online. In: HTTPS://WIKIPEDIA.ORG. Tranzistor - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-11-28. Dostupné z: https://cs.wikipedia.org/wiki/Tranzistor. [cit. 2024-12-18].
 
 [9] History of transistors. Online. In: HTTPS://WIKIPEDIA.ORG. History of transistors - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-10. Dostupné z: https://en.wikipedia.org/wiki/History_of_the_transistor. [cit. 2024-12-18].
 
 [10] JAKUBEC, František. Historický vývoj elektronických počítačů. Online. 2019, 2019. Dostupné z: https://www.moodle.frajasw.cz. [cit. 2024-12-18].
 
-[11] Von Neumann architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Von Neumann architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-10. Dostupné z: https://en.wikipedia.org/wiki/Von_Neumann_architecture. [cit. 2024-12-18].
+[11] Von Neumann architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Von Neumann architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-14-10. Dostupné z: https://en.wikipedia.org/wiki/Von_Neumann_architecture. [cit. 2024-12-18].
 
-[12] Harvard architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Harvard architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-10. Dostupné z: https://en.wikipedia.org/wiki/Harvard_architecture. [cit. 2024-12-18].
+[12] Harvard architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Harvard architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-09-22. Dostupné z: https://en.wikipedia.org/wiki/Harvard_architecture. [cit. 2024-12-18].
 
 [13] 
