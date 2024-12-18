@@ -6,11 +6,11 @@ Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elek
 
 ## Cíl
 
-Vytvořit si z odborných podkladů scénář a natočit, sestříhat a vydat aspoň 2 videa do 15.1.
+Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky,sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem.
 
 ## Obsah
 
-Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v mých silách budu dokládat praktické ukázky a animace pro lepší pochopení tématu. Rozhodl jsem se více soustředit více na věci, které jsem měl dojem že jsem při standartím učivu nepochopil, či jsme je vůbec neprobírali. 
+Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v mých silách budu dokládat praktické ukázky a animace pro lepší pochopení tématu. Rozhodl jsem se více soustředit více na věci, které jsem měl dojem že jsem při standartím učivu nepochopil, či jsme je vůbec neprobírali. Kladl jsem důraz na to že "učení není mučení" a přistupoval k věcem tak, jak bych to ocenil já a snažím se zprostředkovávat informace ve videiích způsobem jež je sice více naučný než zábavný ale jen proto, že mi tento přístup přijde nejlepší pro pochopení a nejsnazší na koukání. Tato edukační videa mají býti cílena píše mladšímu publiku kvůli tomu že videa nejsou odborná na úrovni vysoké školy, nicméně fakty v nich jsou stále ověřené a pravdivé. 
 
 # Použité nástroje
 
@@ -42,8 +42,8 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 ## Literatura
 
-[1] Markdown Guide. Online. © 2024. Dostupné z: https://www.markdownguide.org/. [cit. 2024-11-25].
+[1]
 
-[2] MICROSOFT CORPORATION. Úvod do Git ve VS kódu. Online. Visual Studio Code documentation. 2024, 29. 10. 2024. Dostupné z: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git. [cit. 2024-12-10].
+[2] 
 
-[3] Complete list of github markdown emojis. Online. DEV. 2021, 15. 3. 2021. Dostupné z: https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia. [cit. 2024-12-10].
+[3] 
