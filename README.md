@@ -8,7 +8,9 @@ Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elek
 
 Vytvořit si z odborných podkladů scénář a natočit, sestříhat a vydat aspoň 2 videa do 15.1.
 
+## Obsah
 
+Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v mých silách budu dokládat praktické ukázky a animace pro lepší pochopení tématu. Rozhodl jsem se více soustředit více na věci, které jsem měl dojem že jsem při standartím učivu nepochopil, či jsme je vůbec neprobírali. 
 
 # Použité nástroje
 
