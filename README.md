@@ -18,7 +18,7 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 [2] GITHUB, INC. GitHub. Online. © 2024. Dostupné z: https://github.com/. [cit. 2024-11-25].
 
-[3] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
+[3] JAKUBEC, František. Technika počítačů a sítí. Online. 2019, 2019. Dostupné z: https://www.moodle.frajasw.cz. [cit. 2024-12-18]. 
 
 [4] SPSEL MOHELNICE. Bipolární tranzistory. Online. HTTP://OLD.SPSEMOH.CZ. Základy elektrotechniky. Dostupné z: http://old.spsemoh.cz/vyuka/zel/tranzistory-bip.htm. [cit. 2024-12-18].
 
@@ -32,18 +32,10 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 [9] History of transistors. Online. In: HTTPS://WIKIPEDIA.ORG. History of transistors - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-12-10. Dostupné z: https://en.wikipedia.org/wiki/History_of_the_transistor. [cit. 2024-12-18].
 
-[10] JAKUBEC, František. Historický vývoj elektronických počítačů. Online. 2019, 2019. Dostupné z: https://www.moodle.frajasw.cz. [cit. 2024-12-18].
+[10] Harvard architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Harvard architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-09-22. Dostupné z: https://en.wikipedia.org/wiki/Harvard_architecture. [cit. 2024-12-18].
 
 [11] Von Neumann architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Von Neumann architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-14-10. Dostupné z: https://en.wikipedia.org/wiki/Von_Neumann_architecture. [cit. 2024-12-18].
 
-[12] Harvard architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Harvard architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-09-22. Dostupné z: https://en.wikipedia.org/wiki/Harvard_architecture. [cit. 2024-12-18].
-
-[13] 
-
 ## Literatura
 
-[1]
-
-[2] 
-
-[3] 
+[1] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
