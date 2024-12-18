@@ -6,11 +6,11 @@ Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elek
 
 ## Co vám vlastně odevzdávám
 
-Odevzdávám vám 1 "dokončený" skript (vzhledem k povaze tématu je to velice debatyhodné téma, proto jsem na něm udělal většinu práce a kdykoliv ho můžu doplnit)(slovem skript referuju ke scénáři který, ale slovo skript mi v přišlo vhodnější) a jeden rozpracovaný. V tomto readme fileu odevzdavam také svoji vizi s projektem a důvod proč jsem si tento bič na sebe ušil dobrovolně. 
+Odevzdávám vám 1 "dokončený" skript (vzhledem k povaze tématu je to velice debatyhodné téma, proto jsem na něm udělal většinu práce a kdykoliv ho můžu doplnit)(slovem skript referuju ke scénáři který, ale slovo skript mi v přišlo vhodnější) a jeden rozpracovaný. V tomto readme fileu odevzdavam také svoji vizi s projektem a důvod proč jsem si tento bič na sebe upletl dobrovolně.  V neposlední řadě také odvzdávám citace ale vzhledem k povaze projektu se tyto citace i kolonky literatury několikrát zvětší.
 
 ## Cíl
 
-Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky,sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem.
+Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky,sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem (podkladový materiál mám ještě zhruba na 3 další videa). 
 
 ## Obsah
 
