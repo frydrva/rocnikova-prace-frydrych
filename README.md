@@ -16,7 +16,7 @@ Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky
 
 Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v mých silách budu dokládat praktické ukázky a animace pro lepší pochopení tématu. Rozhodl jsem se více soustředit více na věci, které jsem měl dojem že jsem při standartím učivu nepochopil, či jsme je vůbec neprobírali. Kladl jsem důraz na to že "učení není mučení" a přistupoval k věcem tak, jak bych to ocenil já a snažím se zprostředkovávat informace ve videiích způsobem jež je sice více naučný než zábavný ale jen proto, že mi tento přístup přijde nejlepší pro pochopení a nejsnazší na koukání. Tato edukační videa mají býti cílena píše mladšímu publiku kvůli tomu že videa nejsou odborná na úrovni vysoké školy, nicméně fakty v nich jsou stále ověřené a pravdivé. 
 
-# Použité nástroje
+# Použité nástroje a literatura
 
 [1] CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-11-25].
 
@@ -40,6 +40,4 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 [11] Von Neumann architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Von Neumann architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-14-10. Dostupné z: https://en.wikipedia.org/wiki/Von_Neumann_architecture. [cit. 2024-12-18].
 
-## Literatura
-
-[1] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
+[12] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
