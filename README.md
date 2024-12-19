@@ -2,7 +2,7 @@
 
 ## Zadání
 
-Udělat youtubové naučné videa, srozumitelná pro laiky, kteří by se o elektrotechniku a hlavně počítače chtěli začít zajímat.
+Udělat naučná youtubové videa, srozumitelná pro laiky, kteří by se o elektrotechniku a hlavně počítače chtěli začít zajímat.
 
 ## Co vám vlastně odevzdávám
 
