@@ -41,3 +41,7 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 [11] Von Neumann architecture. Online. In: HTTPS://WIKIPEDIA.ORG. Von Neumann architecture - Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 2024-14-10. Dostupné z: https://en.wikipedia.org/wiki/Von_Neumann_architecture. [cit. 2024-12-18].
 
 [12] ElProCus Technologies Pvt Ltd. Different Types of Transistors and Their Functions. Online. Dostupné z: https://www.elprocus.com/different-types-of-transistors-and-their-functions/. [cit. 2024-12-18].
+
+[13] Medical Prefixes to Indicate Amount | Overview & Examples. Online. 11/21/2023. Dostupné z: https://study.com/academy/lesson/medical-prefixes-to-indicate-amount.html. [cit. 2024-12-21].
+
+[14] 
