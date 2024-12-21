@@ -44,4 +44,4 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 [13] Medical Prefixes to Indicate Amount | Overview & Examples. Online. 11/21/2023. Dostupné z: https://study.com/academy/lesson/medical-prefixes-to-indicate-amount.html. [cit. 2024-12-21].
 
-[14] 
+[14] Dokumentace pro použitý laboratorní zdroj. Online. HTTPS://WWW.HADEX.CZ. Hadex. Dostupné z: https://www.hadex.cz/navody/g852.pdf. [cit. 2024-12-21].
