@@ -47,3 +47,9 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 [14] Dokumentace pro použitý laboratorní zdroj. Online. HTTPS://WWW.HADEX.CZ. Hadex. Dostupné z: https://www.hadex.cz/navody/g852.pdf. [cit. 2024-12-21].
 
 [15] LAGUE, Sebastian. Exploring How Computers Work. Online. In: . USA, 2020. Dostupné z: https://www.youtube.com/watch?v=QZwneRb-zqA. [cit. 2024-12-24].
+
+[16] KID, Analog a PERWIRA, Muhammad Ikhwan. Electrical engineering: When we can say 0 and 1 in digital electronic? Online. In: . USA, 12/9/2020. Dostupné z: https://electronics.stackexchange.com/questions/536329/when-we-can-say-0-and-1-in-digital-electronic. [cit. 2024-12-24].
+
+[17] Transistor–transistor logic. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-2024, 12/21/2024. Dostupné z: https://en.wikipedia.org/wiki/Transistor–transistor_logic. [cit. 2025-01-05].
+
+[18] 
