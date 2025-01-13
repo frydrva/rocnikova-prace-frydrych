@@ -10,7 +10,7 @@ Odevzdávám vám 2 dokončené skripty . V tomto readme fileu odevzdavam také 
 
 ## Cíl
 
-Vytvořit si z odborných podkladů scénář a natočit, udělat hudební prvky,sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem (podkladový materiál mám ještě zhruba na 3 další videa). 
+Vytvořit si z odborných podkladů scénář a natočit, sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem (podkladový materiál mám ještě zhruba na 3 další videa). 
 
 ## Obsah
 
