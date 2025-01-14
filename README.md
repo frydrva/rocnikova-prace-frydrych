@@ -18,7 +18,7 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 ## Youtubový kanál kde jsou umístěna všechna nynější i budoucí videa
 
-[1]https://www.youtube.com/@Jedničkyanuly
+https://www.youtube.com/@Jedničkyanuly
 
 ## Použité nástroje
 
