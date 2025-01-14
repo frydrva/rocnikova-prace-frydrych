@@ -20,6 +20,8 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 https://www.youtube.com/@Jedničkyanuly
 
+Informační video (neuvedené): https://youtu.be/gx7GYVycqaw
+
 ## Použité nástroje
 
 [1] Pixlr, grafický nástroj, https://pixlr.com/editor/.
