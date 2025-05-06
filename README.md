@@ -68,6 +68,8 @@ Informační video (neuvedené): https://youtu.be/gx7GYVycqaw
 
 [18] Google Images. Online. 2001. Dostupné z: https://images.google.com. [cit. 2025-01-14].
 
+[19] PN přechod. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-, 27.10. 2024. Dostupné z: https://cs.wikipedia.org/wiki/PN_p%C5%99echod. [cit. 2025-05-06].
+
 ## Poděkování
 
 Největší poděkování patří pedagogům kteří mě dovedli k chuti sám sebe edukovat a kteří mi ukázali krásu v edukování sebe i ostatních. Další poděkování pochopitelně patří rodině a přátelům.
