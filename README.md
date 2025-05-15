@@ -20,7 +20,7 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 https://www.youtube.com/@Jedničkyanuly
 
-Informační video (neuvedené): https://youtu.be/gx7GYVycqaw
+Informační video (neuvedené(staré)): https://youtu.be/gx7GYVycqaw
 
 ## Použité nástroje
 
