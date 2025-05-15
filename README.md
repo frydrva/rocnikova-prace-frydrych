@@ -6,7 +6,7 @@ Udělat naučná youtubová videa, srozumitelná pro laiky, kteří by se o elek
 
 ## Co vám vlastně odevzdávám
 
-Odevzdávám vám 2 dokončené skripty . V tomto readme fileu odevzdavam také svoji vizi s projektem a důvod proč jsem si tento bič na sebe upletl dobrovolně.  V neposlední řadě také odvzdávám citace ale vzhledem k povaze projektu se tyto citace i kolonky literatury několikrát zvětší.
+Odevzdávám vám 2 dokončené skripty a 3 videa, 2 edukační a jedno informační. V tomto readme fileu odevzdávám také svoji vizi s projektem a důvod proč jsem si tento bič na sebe upletl dobrovolně.  V neposlední řadě také odvzdávám citace.
 
 ## Cíl
 
@@ -20,7 +20,7 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 
 https://www.youtube.com/@Jedničkyanuly
 
-Informační video (neuvedené(staré)): https://youtu.be/gx7GYVycqaw
+Informační video (neuvedené): 
 
 ## Použité nástroje
 
