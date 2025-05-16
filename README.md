@@ -9,7 +9,7 @@ Udělat naučná youtubová videa, srozumitelná pro laiky, kteří by se o elek
 Odevzdávám vám 2 dokončené skripty a 5 videí, 4 edukační z tohož pouze 2 uvedené na kanále jsou ty správné publikace, ty 2 starší vide zasílám kvůli porovnání aby bylo vidět že jsem se 6 měsíců nekopal do zadku a jedno informační. V tomto readme fileu odevzdávám také svoji vizi s projektem a důvod proč jsem si tento bič na sebe upletl dobrovolně.  V neposlední řadě také odvzdávám citace.
 
 ## Cíl
-# Předvánoční část:
+### Předvánoční část:
 Vytvořit si z odborných podkladů scénář a natočit, sestříhat a vydat aspoň 2 videa do 15.1. a pokračovat v jejich tvorbě dokud o toto téma budu mít zájem (podkladový materiál mám ještě zhruba na 3 další videa). 
 
 ### Část odevzdávaná v květnu:
