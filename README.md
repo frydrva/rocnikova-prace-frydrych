@@ -25,7 +25,7 @@ Obsah je stále stejný, ale rozvedl jsem některá přehlédnutá témata, pro 
 
 Kanál: https://www.youtube.com/@Jedničkyanuly
 
-Informační video (neuvedené): 
+Informační video (neuvedené): https://youtu.be/tPFT2K1yFOg
 
 První epizoda (nepovedená, ta povedená je uvedená jako veřejná) https://youtu.be/jrm18Dc2QaU
 
