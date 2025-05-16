@@ -21,6 +21,9 @@ Videa budou obsahovat informace o zrovna probíraném tématu, pokud to bude v m
 https://www.youtube.com/@Jedničkyanuly
 
 Informační video (neuvedené): 
+První epizoda (nepovedená, ta povedená je uvedená jako veřejná) https://youtu.be/jrm18Dc2QaU
+Druhá epizoda (nepovedená, ta povedená je uvedená jako veřejná) https://youtu.be/3aUGmU7SZr4
+
 
 ## Použité nástroje
 
